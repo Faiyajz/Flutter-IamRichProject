@@ -1,6 +1,6 @@
-# calculatorapp
+# FlutterIamRichProject
 
-A new Flutter project.
+A new I am Rich Flutter project.
 
 ## Getting Started
 
